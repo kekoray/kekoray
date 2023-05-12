@@ -1,19 +1,22 @@
- 
 ### Hi, I’m kekoray ! 👋
-**I'm so glad you could come, Let's become an excellent clustering center together !**
+**I'm so glad you could come**
+
+<p align="left">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Motto-Let's%20become%20an%20excellent%20clustering%20center%20together!-orange" /></a>
+</p>
 
 - 🔭 I’m a BigData Developer Engineer.
 - 🌱 I’m currently learning Spark/Filnk/Micro-service.
 - 📫 How to reach me : kekoray@qq.com
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=experience&company=alibaba&role=BigData%20Engineer%20&location=China&fill=black">
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoray&layout=compact)](https://github.com/kekoray/github-readme-stats)
+</p> -->
 
 [![eknown's github stats](https://github-readme-stats.vercel.app/api?username=kekoray)](https://github.com/kekoray)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoray&layout=compact)](https://github.com/kekoray/github-readme-stats)
 
 
 
