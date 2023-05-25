@@ -10,16 +10,16 @@
 - 🌱 I’m currently learning Spark/Filnk/Micro-service.
 - 📫 How to reach me : kekoray@qq.com
 
-<!-- <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=alibaba&role=BigData%20Engineer%20&location=China&fill=black">
-</p> -->
 
-[![eknown's github stats](https://github-readme-stats.vercel.app/api?username=kekoray)](https://github.com/kekoray)
+[![kekoray's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kekoray&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kekoray/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekoray&layout=compact)](https://github.com/kekoray/github-readme-stats)
 
 
 
+<!-- <p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=alibaba&role=BigData%20Engineer%20&location=China&fill=black">
+</p> -->
 
 
 <!-- 
